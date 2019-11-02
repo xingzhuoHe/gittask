@@ -1,0 +1,6 @@
+.hello {
+    font-size: 50px;
+    color: rgb(23, 55, 189);
+    display: flex;
+    justify-content: center;
+}
